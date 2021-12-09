@@ -1,6 +1,6 @@
 - Hi, I’m @JoeBorn
 - I’m interested in Machine Learning and AI generally
-- How to reach me: I'm @joeBorn on most platforms, twitter, gmail, etc  
+- I'm @joeBorn on most platforms, twitter, gmail, etc  
 
 <!---
 JoeBorn/JoeBorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
